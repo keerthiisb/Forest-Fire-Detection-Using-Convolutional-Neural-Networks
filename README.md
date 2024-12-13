@@ -14,25 +14,25 @@ Integration of Flask for a web-based user interface.
 
 3.Software Requirements
 
-➢ Operating system : Windows XP/7 
-
-➢ Coding Language : PYTHON 
-
-➢ Tool : Anaconda Navigator 
+ Operating system : Windows XP/7 
+ 
+ Coding Language : PYTHON 
+ 
+ Tool : Anaconda Navigator 
 
 4. Hardware Constraints
+ 
+ System : Pentium IV 2.4 GHz  
 
-➢ System : Pentium IV 2.4 GHz  
+ Hard Disk : 40 GB  
 
-➢ Hard Disk : 40 GB  
+ Floppy Drive : 1.44 MB 
 
-➢ Floppy Drive : 1.44 MB 
+ Monitor : 15 VGA Colour 
 
-➢ Monitor : 15 VGA Colour 
+ Mouse : Logitech
 
-➢ Mouse : Logitech
-
-➢ Ram : 512 MB 
+ Ram : 512 MB 
 
 5.Detecting Forest Fires
 
