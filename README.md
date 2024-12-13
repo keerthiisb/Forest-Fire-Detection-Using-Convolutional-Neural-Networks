@@ -20,7 +20,7 @@ Integration of Flask for a web-based user interface.
  
  Tool : Anaconda Navigator 
 
-4. Hardware Constraints
+4.Hardware Constraints
  
  System : Pentium IV 2.4 GHz  
 
